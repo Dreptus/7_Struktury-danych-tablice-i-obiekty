@@ -1,1 +1,1 @@
-# 7._Struktury-danych-tablice-i-obiekty
+# 7_Struktury-danych-tablice-i-obiekty
